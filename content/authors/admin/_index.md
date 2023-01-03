@@ -6,10 +6,6 @@ title: Fahad Aljehani
 first_name: Fahad
 last_name: Aljehani
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -25,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+Interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
